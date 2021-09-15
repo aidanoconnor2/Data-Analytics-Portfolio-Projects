@@ -1,6 +1,6 @@
 -- SQL Covid Data Exploration Project
 
--- We will explore a Covid-19 dataset wqhich contains data starting from January 1st 2020 up until August 8th 2021.
+-- We will explore a Covid-19 dataset which contains data starting from January 1st 2020 up until August 8th 2021.
 
 -------------------------------------------------------------------------------------------------------------
 
