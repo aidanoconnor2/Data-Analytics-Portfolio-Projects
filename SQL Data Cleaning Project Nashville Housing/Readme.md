@@ -4,7 +4,7 @@ This is a project where I used SQL to clean a dataset containing information on 
 
 The techniques used in this project are:
 - The aggregate function CONVERT to remove the time from "SalesDate" and leave only the date.
-- A self join to to help populate entries with missing data.
+- A self join to help populate entries with missing data.
 - Creating new tables in order to split address data into multiple columns.
 - Using CASE statements to standardize some of the data.
 - Using a WITH statement to remove duplicates.
