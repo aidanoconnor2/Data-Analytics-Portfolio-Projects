@@ -1,4 +1,4 @@
-#Exploring two Covid-19 Datasets using SQL
+# Exploring two Covid-19 Datasets using SQL
 
 In this project, I used SQL to explore 2 datasets, both containing covid-19 data from January 1st 2020 to August 8th 2021. One of the datasets contains information on the numbers of total deaths per day percountry and total deaths per day per continent. The 2nd dataset has describes the total number of vaccinations per day per country and the total number vaccinations per day per continent. 
 
